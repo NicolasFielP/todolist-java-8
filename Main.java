@@ -16,7 +16,7 @@ public class Main {
         //fazendo um loop infinito para rodar a aplicação
         while (true){
             //"menu"
-            System.out.println("=== Tarefas Legais :D ===\n1. Ler tarefas\n2. Adicionar Tarefa nova\n3. Concluir Tarefa");
+            System.out.println("=== Lista de tarefas ===\n1. Ler tarefas\n2. Adicionar Tarefa nova\n3. Concluir Tarefa");
 
             // coletar a decisão do usuário
             System.out.print("Sua decisão: ");
